@@ -1,0 +1,25 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghSB17/LIRI.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ghSB17/LIRI/issues"
+  },
+  "homepage": "https://github.com/ghSB17/LIRI#readme"
+}

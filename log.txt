@@ -1,0 +1,76 @@
+node liri.js spotify-this
+I do not understand your command!!
+Use my-tweets or spotify-this-song or movie-this
+*********************************************************
+node liri.js spotify-this-song
+Song Name: The Lazy Song
+Album Name: Doo-Wops & Hooligans
+Preview URL: https://p.scdn.co/mp3-preview/6dda0f582db7db112f377d36df313cf04e706f27?cid=71938f1b6ae84280a26e9bccc2e819dd
+Artists: Bruno Mars 
+
+*********************************************************
+node liri.js spotify-this-song Good,old,days
+
+Song Name: Good Old Days (feat. Kesha)
+Album Name: GEMINI
+Preview URL: https://p.scdn.co/mp3-preview/382e98fe869bf3ce35acf0f01b09cc199a3292be?cid=71938f1b6ae84280a26e9bccc2e819dd
+Artists: Macklemore Kesha 
+
+*********************************************************
+node liri.js movie-this
+Movie Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+*********************************************************
+node liri.js movie-this black,panther
+
+Movie Title: Black Panther
+Year Released: 2018
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 96%
+Country: USA
+Language: Swahili, Nama, English, Xhosa, Korean
+Plot: T'Challa, the King of Wakanda, rises to the throne in the isolated, technologically advanced African nation, but his claim is challenged by a vengeful outsider who was a childhood victim of T'Challa's father's mistake.
+Actors: Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira
+
+*********************************************************
+node liri.js my-tweets
+(1): #China can teach the West an important lesson about #innovation https://t.co/jRZ8dDRiHN https://t.co/uZP20f8jyp
+(2): Gaming addiction is now seen as a mental health condition by the @WHO https://t.co/CRIvMRBpsE #mentalhealth https://t.co/pSqxCyjCqw
+(3): Still don't understand the #blockchain? This explainer could help https://t.co/espiJWGgXL https://t.co/CNSVh5m7D8
+(4): 9 of the most successful people share their reading habits https://t.co/GjS5CXjWH0 #literature https://t.co/AlYaSH3xZg
+(5): 13 #cities that are starting to ban cars https://t.co/kIOX1zBCMH #environment https://t.co/ANluE108p1
+(6): Here's how Asia can resist the rise of the robots https://t.co/Ue1SkP1JTL #AI https://t.co/hrVekwLUGy
+(7): The most stunning images NASA has ever taken of our planet https://t.co/K5w6MV06JE #space https://t.co/erZFkrrczo
+(8): Funny people are also more intelligent, according to new research https://t.co/4WKei1Rdcv #mentalhealth https://t.co/KkdmQPpx6C
+(9): The genetic difference between men and women could be greater than we thought https://t.co/vl7Fv3b0zS #gender https://t.co/SmUvRDamYk
+(10): These are the 25 most high-tech cities in the world https://t.co/Ah7SC0IRz3 #technology https://t.co/xN5aS5rZ4h
+(11): Meet the #cities with the highest quality of life https://t.co/CSnrNhfPZu https://t.co/QkPrT8tmxi
+(12): Best Script Fonts: 35 Free Script Fonts https://t.co/ZJd6cYY58h https://t.co/kSObkxGurq
+(13): Scientists have created a silicon beating heart https://t.co/exYOH3TG4m #health https://t.co/Kqkwji8OCV
+(14): 🌳🌳🌳 Read more: https://t.co/ezJdnRjZsA https://t.co/gtEf7iSqaG
+(15): The secret to lifelong success is lifelong learning https://t.co/1qISGd7MhO #leadership https://t.co/53sHp2e9WY
+(16): These #elements could disappear from the world https://t.co/3dAELr0thG #technology https://t.co/f9lat0MirD
+(17): 10 #WooCommerce Extensions That Will Help You Build a Better Store https://t.co/DtLIMuMqKL https://t.co/ni4I0XauNA
+(18): Showing off your flaws could make you more successful. Here's why https://t.co/qIxkR9vcbU #leadership https://t.co/dN5bFpt9Bq
+(19): How you can achieve peak brain performance, according to science https://t.co/4R6uZquEpt #productivity https://t.co/PsnFIZanLG
+(20): #Google has developed a way to predict your risk of a heart attack just by scanning your eye… https://t.co/4vqyQlgBVD
+
+*********************************************************
+node liri.js movie-this ,,,Raiders,of,the,lost,,,,ark
+Movie Title: Raiders of the Lost Ark
+Year Released: 1981
+IMDB Rating: 8.5
+Rotten Tomatoes Rating: 94%
+Country: USA
+Language: English, German, Hebrew, Spanish, Arabic, Nepali
+Plot: Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.
+Actors: Harrison Ford, Karen Allen, Paul Freeman, Ronald Lacey
+
+*********************************************************
